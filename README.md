@@ -128,7 +128,7 @@ Además del desarrollo de funcionalidades, tengo experiencia trabajando con:
 
 💼 **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/adrian-chicano/)
 
-🌍 **Portfolio:** [Visitar mi portfolio]([TU_URL_DEL_PORTFOLIO](https://adrianchicanoweb.netlify.app/))
+🌍 **Portfolio:** [Visitar mi portfolio](https://adrianchicanoweb.netlify.app/).
 
 ---
 
