@@ -119,13 +119,6 @@ Además del desarrollo de funcionalidades, tengo experiencia trabajando con:
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chicano76&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chicano76&layout=compact&hide_border=true)
-
----
 
 ## 📫 Contacto
 
@@ -133,9 +126,9 @@ Además del desarrollo de funcionalidades, tengo experiencia trabajando con:
 
 🌐 **GitHub:** [github.com/chicano76](https://github.com/chicano76)
 
-💼 **LinkedIn:** Próximamente
+💼 **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/adrian-chicano/)
 
-🌍 **Portfolio:** Próximamente
+🌍 **Portfolio:** [Visitar mi portfolio]([TU_URL_DEL_PORTFOLIO](https://adrianchicanoweb.netlify.app/))
 
 ---
 
