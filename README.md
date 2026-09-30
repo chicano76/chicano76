@@ -1,135 +1,120 @@
-# 👋 ¡Hola! Soy Adrián Chicano García
+# Adrián Chicano García
 
-### 💻 Desarrollador Web Full Stack | DAW
+### Full Stack Web Developer · Técnico Superior en DAW
 
-Soy desarrollador web especializado en la creación de aplicaciones modernas, trabajando tanto en **frontend como backend**.
+Desarrollador web Full Stack con experiencia profesional participando en el desarrollo y puesta en producción de aplicaciones web empresariales.
 
-Cuento con experiencia profesional en desarrollo de aplicaciones web empresariales y he trabajado con tecnologías como **TypeScript, Next.js, React, Angular, Python, FastAPI, PHP, Java, PostgreSQL y MySQL**.
+Trabajo principalmente con **TypeScript, React/Next.js, Angular, Python/FastAPI, Java, PHP y bases de datos SQL**, desarrollando funcionalidades tanto en frontend como en backend, integración de APIs REST, autenticación y control de acceso, gestión de datos y despliegue de aplicaciones.
 
-Me interesa especialmente construir aplicaciones funcionales, mantenibles y orientadas a resolver problemas reales.
+[Portfolio](https://adrianchicanoweb.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/adrian-chicano/) · [GitHub](https://github.com/chicano76)
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-### 🗺️ TimeRoute · Gestión de rutas y jornadas
+### TimeRoute — Gestión de rutas y jornadas
 
-Aplicación web para la gestión de jornadas laborales, visitas y desplazamientos de trabajadores de atención domiciliaria.
+**Proyecto Final DAW**
+
+Aplicación web para gestionar jornadas laborales, visitas y desplazamientos de trabajadores de atención domiciliaria.
 
 Permite gestionar clientes y rutas, realizar check-in/check-out de visitas, controlar jornadas y pausas, calcular kilometraje y generar informes.
 
-**Tecnologías:**  
-`Angular` `TypeScript` `PHP` `MySQL` `Google Maps API` `REST API`
+**Angular · TypeScript · PHP · MySQL · Google Maps API · REST API**
+
+[Ver código →](https://github.com/chicano76/TFG_Proyecto_DAW)
 
 ---
 
-### 💼 AppGestión · Plataforma de gestión empresarial
+### AppGestión — Plataforma de gestión empresarial
 
-Aplicación web empresarial desarrollada durante mi experiencia profesional para la gestión de usuarios, permisos, gastos, viajes y otros procesos internos.
+**Experiencia profesional**
 
-Participé en el desarrollo **frontend y backend**, implementación de funcionalidades, pruebas, documentación y puesta en producción.
+Participación en el desarrollo Full Stack de una aplicación empresarial orientada a la gestión de usuarios, permisos, gastos, viajes y otros procesos internos.
 
-**Tecnologías:**  
-`Next.js` `React` `TypeScript` `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker` `Nginx` `Gitea`
+Desarrollo de funcionalidades frontend y backend, APIs REST, autenticación y autorización, auditoría, gestión de datos, pruebas, documentación y puesta en producción.
 
-**Funcionalidades:**  
+**Next.js · React · TypeScript · Python · FastAPI · PostgreSQL · SQLAlchemy · Docker · Nginx · Gitea**
+
 `JWT` `RBAC` `Auditoría` `Soft Delete` `APIs REST` `Paginación` `Filtrado`
 
 ---
 
-### 🛒 ByteMarket · E-commerce con Angular
+### ByteMarket — E-commerce con Angular
+
+**Proyecto personal · Frontend**
 
 SPA de comercio electrónico desarrollada con Angular y TypeScript.
 
-Incluye catálogo de productos, carrito de compra, simulación de pedidos y un panel de administración para crear, modificar y eliminar productos y gestionar existencias.
+Incluye catálogo de productos, carrito de compra, simulación y confirmación de pedidos y un panel de administración para crear, modificar y eliminar productos y gestionar existencias.
 
-**Tecnologías:**  
-`Angular` `TypeScript` `JavaScript` `HTML` `CSS` `LocalStorage`
+**Angular · TypeScript · JavaScript · HTML · CSS · LocalStorage**
 
----
-
-## 🏆 Stack tecnológico
-
-### 💻 Lenguajes
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[Ver código →](https://github.com/chicano76/ByteMarket) · [Ver demo →](https://tiendaonlineangular.netlify.app/)
 
 ---
 
-### ⚡ Frontend
+### Inventario DVD — Aplicación Java
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**Proyecto Java**
+
+Aplicación desarrollada en Java para la gestión de un inventario de películas en DVD.
+
+[Ver código →](https://github.com/chicano76/Inventario-DVD-en-Java)
 
 ---
 
-### ⚙️ Backend
+## Stack tecnológico
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Lenguajes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,php,html,css" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,php,java" />
+</p>
 
 **También:** REST APIs · JWT · RBAC · SQLAlchemy · Pydantic · Alembic
 
----
+### Bases de datos
 
-### 🗄️ Bases de datos
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Herramientas y DevOps
 
----
-
-### 🛠️ Herramientas y DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postman,vscode" />
+</p>
 
 **También:** Docker Compose · Gitea · CI/CD · OpenSpec
 
 ---
 
-## 🧠 Metodología y desarrollo
+## Experiencia técnica
 
-Además del desarrollo de funcionalidades, tengo experiencia trabajando con:
-
-- Arquitecturas frontend y backend separadas mediante **APIs REST**
-- Autenticación mediante **JWT**
-- Control de acceso basado en roles (**RBAC**)
-- Validación de datos y formularios
-- Auditoría y soft delete
-- Dockerización de aplicaciones
-- Control de versiones con Git
-- Documentación técnica
-- Desarrollo basado en especificaciones con **OpenSpec**
-- Integración de servicios externos y APIs
+- Desarrollo de interfaces y funcionalidades backend en aplicaciones web.
+- Diseño e integración de **APIs REST**, autenticación mediante **JWT** y autorización basada en roles (**RBAC**).
+- Trabajo con bases de datos relacionales, validación de datos, auditoría y gestión del ciclo de vida de la información.
+- Contenerización de aplicaciones con **Docker**, control de versiones y procesos de despliegue.
+- Integración de servicios externos y APIs.
+- Desarrollo basado en especificaciones técnicas mediante **OpenSpec**.
 
 ---
 
+## Contacto
 
-## 📫 Contacto
-
-¿Quieres conocer mejor mi trabajo o contactar conmigo?
-
-🌐 **GitHub:** [github.com/chicano76](https://github.com/chicano76)
-
-💼 **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/adrian-chicano/)
-
-🌍 **Portfolio:** [Visitar mi portfolio](https://adrianchicanoweb.netlify.app/).
-
----
-
-⭐ *Actualmente continúo ampliando mis conocimientos y desarrollando nuevos proyectos orientados al desarrollo web Full Stack.*
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar_web-222222?style=flat-square)](https://adrianchicanoweb.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián_Chicano-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adrian-chicano/)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chicano-1993@hotmail.com)
