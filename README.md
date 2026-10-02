@@ -109,7 +109,7 @@ Aplicación desarrollada en Java para la gestión de un inventario de películas
 - Trabajo con bases de datos relacionales, validación de datos, auditoría y gestión del ciclo de vida de la información.
 - Contenerización de aplicaciones con **Docker**, control de versiones y procesos de despliegue.
 - Integración de servicios externos y APIs.
-- Desarrollo basado en especificaciones técnicas mediante **OpenSpec**.
+- Desarrollo guiado por especificaciones (Spec-Driven Development) con OpenSpec.
 
 ---
 
