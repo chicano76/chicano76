@@ -95,7 +95,7 @@ Aplicación desarrollada en Java para la gestión de un inventario de películas
 ### Herramientas y DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
 **También:** Docker Compose · Gitea · CI/CD · OpenSpec
@@ -117,4 +117,4 @@ Aplicación desarrollada en Java para la gestión de un inventario de películas
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visitar_web-222222?style=flat-square)](https://adrianchicanoweb.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián_Chicano-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adrian-chicano/)
-[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adrianchicanogarcia@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Contacto-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adrianchicanogarcia@gmail.com)
